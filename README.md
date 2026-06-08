@@ -362,13 +362,31 @@ g++ -std=c++17 -o codeclean codeclean.cpp
 ---
 
 ## 2.10 Screenshots
+<img width="380" height="160" alt="Screenshot 2026-06-08 at 11 31 05 PM" src="https://github.com/user-attachments/assets/c77090e3-960c-450d-8701-ca3aa5f527dc" />
+<img width="525" height="693" alt="Screenshot 2026-06-08 at 11 28 28 PM" src="https://github.com/user-attachments/assets/ecc27aba-40da-4cdc-8eeb-13f486f50fd0" />
+<img width="526" height="236" alt="Screenshot 2026-06-08 at 11 31 29 PM" src="https://github.com/user-attachments/assets/be3472f0-f649-4492-b6c1-7da99d25247f" />
+<img width="503" height="174" alt="Screenshot 2026-06-08 at 11 32 50 PM" src="https://github.com/user-attachments/assets/2fda98eb-0c10-4aea-bd12-cbf36763cbc5" />
+<img width="475" height="131" alt="Screenshot 2026-06-08 at 11 43 36 PM" src="https://github.com/user-attachments/assets/9100bdcf-98b9-4cd6-be5a-735af5460ef0" />
+<img width="423" height="210" alt="Screenshot 2026-06-08 at 11 43 27 PM" src="https://github.com/user-attachments/assets/7d29a881-880e-4736-bfb5-5dce185afb19" />
+<img width="498" height="423" alt="Screenshot 2026-06-08 at 11 42 59 PM" src="https://github.com/user-attachments/assets/5639fbda-a083-45c9-b594-7833e7c44b8d" />
+<img width="505" height="273" alt="Screenshot 2026-06-08 at 11 42 44 PM" src="https://github.com/user-attachments/assets/1199bba9-9b1a-4ae8-9a63-ce6b51684334" />
+<img width="508" height="106" alt="Screenshot 2026-06-08 at 11 42 32 PM" src="https://github.com/user-attachments/assets/7e6ed03d-bc28-447d-a21d-01f2d1ae32ed" />
+<img width="413" height="95" alt="Screenshot 2026-06-08 at 11 42 20 PM" src="https://github.com/user-attachments/assets/817587d0-b246-41bd-b913-098161d19cff" />
+<img width="370" height="93" alt="Screenshot 2026-06-08 at 11 42 05 PM" src="https://github.com/user-attachments/assets/0830db3b-c43b-4b21-ae84-4d658aa7666c" />
+<img width="462" height="154" alt="Screenshot 2026-06-08 at 11 34 40 PM" src="https://github.com/user-attachments/assets/511b4c21-b1df-4680-8277-cf16f226ae79" />
+<img width="415" height="97" alt="Screenshot 2026-06-08 at 11 34 16 PM" src="https://github.com/user-attachments/assets/76f63f95-f2a3-4323-aec9-defea06ef331" />
+<img width="447" height="148" alt="Screenshot 2026-06-08 at 11 34 04 PM" src="https://github.com/user-attachments/assets/d85c399b-bcaa-415b-8457-0248789db8f7" />
+<img width="435" height="79" alt="Screenshot 2026-06-08 at 11 33 47 PM" src="https://github.com/user-attachments/assets/e56d24bb-cc37-432f-bbb1-6551e607f3e1" />
+<img width="484" height="86" alt="Screenshot 2026-06-08 at 11 33 31 PM" src="https://github.com/user-attachments/assets/0676c5a8-ae0b-437b-82c6-2a22c98f043c" />
+<img width="471" height="66" alt="Screenshot 2026-06-08 at 11 44 12 PM" src="https://github.com/user-attachments/assets/88600d5a-7cd5-4b94-9170-4a08868efd20" />
+<img width="536" height="224" alt="Screenshot 2026-06-08 at 11 43 56 PM" src="https://github.com/user-attachments/assets/7727dedc-a639-46c6-9073-47f0e443b0b8" />
+<img width="604" height="166" alt="Screenshot 2026-06-08 at 11 43 45 PM" src="https://github.com/user-attachments/assets/1726ae4b-e420-4459-9381-1ac8bf30c281" />
 
-*(Attach terminal screenshots when running the program)*
 
-To take screenshots:
-1. Run `./codeclean`
-2. Use each menu option
-3. Capture terminal output
+![Uploading Screenshot 2026-06-08 at 11.31.05 PM.png…]()
+
+
+
 
 ---
 
