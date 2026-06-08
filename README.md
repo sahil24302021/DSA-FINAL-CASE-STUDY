@@ -374,6 +374,75 @@ g++ -std=c++17 -o codeclean codeclean.cpp
 <img width="503" height="174" alt="Screenshot 2026-06-08 at 11 32 50 PM" src="https://github.com/user-attachments/assets/f746d0f2-f903-4207-b5c8-a97a17dc1c29" />
 
 
+<img width="484" height="86" alt="Screenshot 2026-06-08 at 11 33 31 PM" src="https://github.com/user-attachments/assets/aa0b638a-464d-462b-a7a2-fee443bb70bc" />
+
+
+<img width="435" height="79" alt="Screenshot 2026-06-08 at 11 33 47 PM" src="https://github.com/user-attachments/assets/204514ce-48b9-4a99-9a5d-1609a29effef" />
+
+
+
+<img width="447" height="148" alt="Screenshot 2026-06-08 at 11 34 04 PM" src="https://github.com/user-attachments/assets/f570d5c7-636a-44eb-b52d-cedcc8e4a04a" />
+
+
+
+<img width="415" height="97" alt="Screenshot 2026-06-08 at 11 34 16 PM" src="https://github.com/user-attachments/assets/3797c347-642d-4019-ab0b-b7e126eb7c6a" />
+
+
+<img width="462" height="154" alt="Screenshot 2026-06-08 at 11 34 40 PM" src="https://github.com/user-attachments/assets/8204057d-f1cd-49dd-ab70-c6e2b3d6459f" />
+
+
+
+<img width="370" height="93" alt="Screenshot 2026-06-08 at 11 42 05 PM" src="https://github.com/user-attachments/assets/15c9e60c-ecf2-49a3-81a7-97a94ad536dc" />
+
+
+
+
+<img width="413" height="95" alt="Screenshot 2026-06-08 at 11 42 20 PM" src="https://github.com/user-attachments/assets/17e52367-c29b-4e46-aace-84ff7ebf80a5" />
+
+
+
+
+<img width="508" height="106" alt="Screenshot 2026-06-08 at 11 42 32 PM" src="https://github.com/user-attachments/assets/f66f7ae3-583a-4722-8987-49b8ad20b635" />
+
+
+
+<img width="505" height="273" alt="Screenshot 2026-06-08 at 11 42 44 PM" src="https://github.com/user-attachments/assets/5485db28-a4f2-4a91-9c42-513294020eb7" />
+
+
+
+
+<img width="498" height="423" alt="Screenshot 2026-06-08 at 11 42 59 PM" src="https://github.com/user-attachments/assets/82ebb67c-53aa-4953-b434-a4df44ba0586" />
+
+
+
+
+<img width="423" height="210" alt="Screenshot 2026-06-08 at 11 43 27 PM" src="https://github.com/user-attachments/assets/2c87cadf-c137-4e30-b0ba-dfcaf75fdff4" />
+
+
+
+<img width="475" height="131" alt="Screenshot 2026-06-08 at 11 43 36 PM" src="https://github.com/user-attachments/assets/d97a87f9-14d6-412f-b53e-e06cff7ec3cb" />
+
+
+
+<img width="604" height="166" alt="Screenshot 2026-06-08 at 11 43 45 PM" src="https://github.com/user-attachments/assets/c352720c-a242-4ae4-8220-ebe78005fc42" />
+
+
+
+
+<img width="536" height="224" alt="Screenshot 2026-06-08 at 11 43 56 PM" src="https://github.com/user-attachments/assets/4b242938-b2ba-4684-955f-848580f39a3c" />
+
+
+
+<img width="471" height="66" alt="Screenshot 2026-06-08 at 11 44 12 PM" src="https://github.com/user-attachments/assets/73cce8c1-54d7-42cc-8eee-9f4a9c03ad5a" />
+
+
+
+
+
+
+
+
+
 
 
 
