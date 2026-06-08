@@ -362,7 +362,22 @@ g++ -std=c++17 -o codeclean codeclean.cpp
 ---
 
 ## 2.10 Screenshots
-![Uploading Screenshot 2026-06-08 at 11.28.28 PM.png
+<img width="525" height="693" alt="Screenshot 2026-06-08 at 11 28 28 PM" src="https://github.com/user-attachments/assets/1f2cd440-ed87-45b4-a8be-04e2f1cef6cd" />
+
+<img width="380" height="160" alt="Screenshot 2026-06-08 at 11 31 05 PM" src="https://github.com/user-attachments/assets/9d616fb6-2225-45d3-a5fd-3ec03297e0a2" />
+
+
+<img width="526" height="236" alt="Screenshot 2026-06-08 at 11 31 29 PM" src="https://github.com/user-attachments/assets/48cf1d4a-5192-4af5-a375-f8ca9d324adc" />
+
+
+
+<img width="503" height="174" alt="Screenshot 2026-06-08 at 11 32 50 PM" src="https://github.com/user-attachments/assets/f746d0f2-f903-4207-b5c8-a97a17dc1c29" />
+
+
+
+
+
+
 
 
 ---
