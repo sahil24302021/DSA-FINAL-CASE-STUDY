@@ -1,4 +1,4 @@
-# CodeClean — Automated Code Refactoring & Dependency Tool
+<img width="525" height="693" alt="Screenshot 2026-06-08 at 11 28 28 PM" src="https://github.com/user-attachments/assets/e91dc4ae-6a07-4de3-a213-183b30e89e23" /># CodeClean — Automated Code Refactoring & Dependency Tool
 
 **Problem Statement #35**
 
@@ -362,6 +362,8 @@ g++ -std=c++17 -o codeclean codeclean.cpp
 ---
 
 ## 2.10 Screenshots
+![Uploading Screenshot 2026-06-08 at 11.28.28 PM.png
+
 
 ---
 
