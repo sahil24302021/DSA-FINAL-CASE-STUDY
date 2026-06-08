@@ -1,0 +1,8 @@
+# Compiled binary
+codeclean
+*.o
+*.out
+
+# macOS
+.DS_Store
+screenshot.png
